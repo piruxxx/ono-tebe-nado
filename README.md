@@ -1,1 +1,1 @@
-Проект Оно мне надо
+https://github.com/piruxxx/ono-tebe-nado.git

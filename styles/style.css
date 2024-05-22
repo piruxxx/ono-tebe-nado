@@ -6,7 +6,7 @@ html {
   list-style: none;
 }
 
-.link__active {
+.link-active {
   display: inline-block;
   border-bottom: 1px solid #000000;
   text-decoration: none;
@@ -46,7 +46,7 @@ html {
   align-self: flex-start;
 }
 
-.aligned-text_right {
+.aligned-text-right {
   align-self: flex-end;
 }
 
@@ -137,7 +137,6 @@ html {
   font-size: 22px;
   text-transform: uppercase;
   background-color: transparent;
-  cursor: pointer;
 }
 
 .lots {

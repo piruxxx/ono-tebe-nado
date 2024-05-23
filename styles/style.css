@@ -161,15 +161,15 @@
   background-size: cover;
 }
 
-.lots__card-lot-01 {
+.lots__card-lot-film {
   background-image: url(../images/card-lot-01.jpg);
 }
 
-.lots__card-lot-02 {
+.lots__card-lot-book {
   background-image: url(../images/card-lot-02.jpg);
 }
 
-.lots__card-lot-03 {
+.lots__card-lot-art {
   background-image: url(../images/card-lot-03.jpg);
 }
 

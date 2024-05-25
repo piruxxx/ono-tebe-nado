@@ -1,3 +1,5 @@
+/* GENERAL */
+
 .no-bullet {
   list-style: none;
 }
@@ -67,6 +69,8 @@
   align-self: flex-end;
 }
 
+/* HEADER */
+
 .header {
   display: flex;
   justify-content: space-between;
@@ -97,6 +101,8 @@
 .header__address {
   margin-left: auto;
 }
+
+/* COVER */
 
 .cover {
   position: relative;
@@ -133,6 +139,8 @@
   text-transform: uppercase;
   word-spacing: 18.5px;
 }
+
+/* LOTS */
 
 .lots {
   margin: 0 24px;
@@ -207,6 +215,8 @@
   text-transform: lowercase;
 }
 
+/* ABOUT */
+
 .about {
   margin: 181px 24px 0;
 }
@@ -251,6 +261,8 @@
   line-height: 24px;
   letter-spacing: 0.006em;
 }
+
+/* FOOTER */
 
 .footer {
   display: flex;
